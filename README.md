@@ -1,6 +1,6 @@
-# 🚗 Rider Hiker
+# 🚗 LyftSync (lift sync)
 
-**Rider Hiker** is a peer-to-peer ride-sharing app designed for intra-city hitchhiking. It connects everyday drivers and riders for casual, fuel-efficient, and community-driven travel within the city.
+**LyftSync** is a peer-to-peer ride-sharing app designed for intra-city hitchhiking. It connects everyday drivers and riders for casual, fuel-efficient, and community-driven travel within the city.
 
 ## ✨ Features
 
